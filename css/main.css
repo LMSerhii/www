@@ -1,6 +1,10 @@
 body {
-    background-color: rgb(215, 226, 226);
+    background-color: rgb(38, 45, 171);
     color: rgb(39, 27, 8);
+    background-image: url('/home/serhii/www/img/bitcoin.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .main-text {
@@ -17,4 +21,8 @@ body {
 
 div span ol, div span ul {
     color: darkgreen;
+}
+
+dev .main-text {
+    background-image: url("/home/serhii/www/img/—Pngtree—modern double color futuristic neon_1181573.jpg");
 }

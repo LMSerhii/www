@@ -1,3 +1,24 @@
+#first {
+    background-color: gray;
+    background-image: url("/home/serhii/www/img/1556866648_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+
+#second {
+    height: 2000px;
+}
+
+#third {
+    height: 300px;
+}
+
+#forth {
+    height: 300px;
+}
+
 .main_link {
     color: crimson;
     text-decoration: none;
