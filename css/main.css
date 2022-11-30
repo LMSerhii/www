@@ -2,3 +2,19 @@ body {
     background-color: rgb(215, 226, 226);
     color: rgb(39, 27, 8);
 }
+
+.main-text {
+    color: rgb(245, 241, 29);
+}
+
+#cursive {
+    color: rgb(16, 125, 4);
+}
+
+#header {
+    color: crimson;
+}
+
+div span ol, div span ul {
+    color: darkgreen;
+}
